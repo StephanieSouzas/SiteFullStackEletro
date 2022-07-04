@@ -1,0 +1,42 @@
+h2 {
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    justify-content: flex-start; 
+}
+
+.menu {
+    background-color: #ff0000;
+}
+
+#copy {
+    font="Arial" size="2"
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#formasdepagamento {
+    font-weight: bold;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+ #imgpag {
+    height: 100px;
+    weight: 200px;
+ }
